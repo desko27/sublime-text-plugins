@@ -1,18 +1,20 @@
 Sublime Text Plugins
 ====================
 
-A list of plugins I use in Sublime Text 3 when programming stuff. I've got most of them [from here](https://github.com/dreikanter/sublime-bookmarks).
+A list of plugins I use in Sublime Text 3 when programming stuff. I've got some of them [from here](https://github.com/dreikanter/sublime-bookmarks).
 
 ## Extensions
 
 ### General Purpose
 - [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
 - [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) — highlight trailing spaces and delete them in a flash.
+- [GitGutter](https://github.com/jisaacks/GitGutter) — a plugin to see git diff in gutter.
 - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
 - [ColorHelper](https://packagecontrol.io/packages/ColorHelper) — provides helpful color tooltips.
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr) — simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++.
 - [Expand Group](https://packagecontrol.io/packages/Expand%20Group) — switch and resize 2-Columns layout or 4-Grid layout fastest as possible.
 - [tabr](https://packagecontrol.io/packages/tabr) — replace your current selections with a dynamically created tab order.
+- [Sublime Alignment](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
 
 ### Markdown Editing Profile
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
