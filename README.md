@@ -35,7 +35,7 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 
 ### Themes
 - [Theme - Afterglow](https://github.com/YabataDesign/afterglow-theme) — a minimal dark Theme and a syntax color scheme.
-- [Material Theme](http://equinusocio.github.io/material-theme/) — epic theme for Sublime Text 3
+- [Material Theme](http://equinusocio.github.io/material-theme/) — epic theme for Sublime Text 3.
 
 ### Trolling
-- [HackerTyper](https://github.com/rexxars/sublime-hacker-typer) — pretend you're an expert hacker and can type flawlessly. Inspired by http://hackertyper.com/
+- [HackerTyper](https://github.com/rexxars/sublime-hacker-typer) — pretend you're an expert hacker and can type flawlessly. Inspired by http://hackertyper.com/.
