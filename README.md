@@ -8,6 +8,7 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 ### General Purpose
 - [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
 - [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) — highlight trailing spaces and delete them in a flash.
+- [Git](https://github.com/kemayo/sublime-text-git) — plugin for some git integration into sublime text.
 - [GitGutter](https://github.com/jisaacks/GitGutter) — a plugin to see git diff in gutter.
 - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
 - [ColorHelper](https://packagecontrol.io/packages/ColorHelper) — provides helpful color tooltips.
@@ -15,6 +16,7 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 - [Expand Group](https://packagecontrol.io/packages/Expand%20Group) — switch and resize 2-Columns layout or 4-Grid layout fastest as possible.
 - [tabr](https://packagecontrol.io/packages/tabr) — replace your current selections with a dynamically created tab order.
 - [Sublime Alignment](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
+- [PlainTasks](https://github.com/aziz/PlainTasks) — an opinionated todo-list plugin.
 
 ### Markdown Editing Profile
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
@@ -34,8 +36,8 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 ## Fun stuff
 
 ### Themes
-- [Theme - Afterglow](https://github.com/YabataDesign/afterglow-theme) — a minimal dark Theme and a syntax color scheme.
 - [Material Theme](http://equinusocio.github.io/material-theme/) — epic theme for Sublime Text 3.
+- [Theme - Afterglow](https://github.com/YabataDesign/afterglow-theme) — a minimal dark Theme and a syntax color scheme.
 
 ### Trolling
 - [HackerTyper](https://github.com/rexxars/sublime-hacker-typer) — pretend you're an expert hacker and can type flawlessly. Inspired by http://hackertyper.com/.
