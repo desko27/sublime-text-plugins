@@ -15,7 +15,7 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr) — simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++.
 - [Expand Group](https://packagecontrol.io/packages/Expand%20Group) — switch and resize 2-Columns layout or 4-Grid layout fastest as possible.
 - [tabr](https://packagecontrol.io/packages/tabr) — replace your current selections with a dynamically created tab order.
-- [Sublime Alignment](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
+- [Alignment](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
 - [PlainTasks](https://github.com/aziz/PlainTasks) — an opinionated todo-list plugin.
 
 ### Markdown Editing Profile
