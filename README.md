@@ -8,7 +8,7 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 ### General Purpose
 - [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
 - [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) — highlight trailing spaces and delete them in a flash.
-- [Git](https://github.com/kemayo/sublime-text-git) — plugin for some git integration into sublime text.
+- [GitSavvy](https://github.com/divmain/GitSavvy) — awesome git integration into sublime text.
 - [GitGutter](https://github.com/jisaacks/GitGutter) — a plugin to see git diff in gutter.
 - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
 - [ColorHelper](https://packagecontrol.io/packages/ColorHelper) — provides helpful color tooltips.
