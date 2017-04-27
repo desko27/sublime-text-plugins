@@ -18,7 +18,7 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 - [Alignment](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
 - [ASCII Decorator](https://github.com/viisual/ASCII-Decorator) — convert selected text into banners made up of ASCII art.
 - [PlainTasks](https://github.com/aziz/PlainTasks) — an opinionated todo-list plugin.
-- [GotoWindow](https://github.com/ccampbell/sublime-goto-window) — quickly switch to any open window using a keyboard command
+- [GotoWindow](https://github.com/ccampbell/sublime-goto-window) — quickly switch to any open window using a keyboard command.
 
 ### Markdown Editing Profile
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
