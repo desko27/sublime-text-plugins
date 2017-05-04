@@ -19,6 +19,9 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 - [ASCII Decorator](https://github.com/viisual/ASCII-Decorator) — convert selected text into banners made up of ASCII art.
 - [PlainTasks](https://github.com/aziz/PlainTasks) — an opinionated todo-list plugin.
 - [GotoWindow](https://github.com/ccampbell/sublime-goto-window) — quickly switch to any open window using a keyboard command.
+- [Text Pastry](https://packagecontrol.io/packages/Text%20Pastry) — extend the power of multiple selections in Sublime Text 2/3.
+- [Case Conversion](https://packagecontrol.io/packages/Case%20Conversion) — It converts the current word/token between pascal, camel, snake, etc.
+- [Hasher](https://packagecontrol.io/packages/Hasher) — generates hashes from the selected text.
 
 ### Markdown Editing Profile
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
