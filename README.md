@@ -35,6 +35,7 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 - [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) — HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js.
 
 ### Other languages & syntax
+- [Babel](https://packagecontrol.io/packages/Babel) — syntax definitions for ES6 JavaScript with React JSX extensions.
 - [TypeScript](https://packagecontrol.io/packages/TypeScript) — an enhanced Sublime Text experience when working with TypeScript code.
 - [VBScript](https://packagecontrol.io/packages/VBScript) — syntax highlighting for VBScript.
 
