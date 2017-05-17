@@ -22,6 +22,7 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 - [Text Pastry](https://packagecontrol.io/packages/Text%20Pastry) — extend the power of multiple selections in Sublime Text 2/3.
 - [Case Conversion](https://packagecontrol.io/packages/Case%20Conversion) — It converts the current word/token between pascal, camel, snake, etc.
 - [Hasher](https://packagecontrol.io/packages/Hasher) — generates hashes from the selected text.
+- [Compare Side-By-Side](https://packagecontrol.io/packages/Compare%20Side-By-Side) — Side-by-side file comparison & difference tool for ST2/3.
 
 ### Markdown Editing Profile
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
