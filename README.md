@@ -16,6 +16,7 @@ A list of plugins I use in Sublime Text 3 when programming stuff. I've got some 
 - [Expand Group](https://packagecontrol.io/packages/Expand%20Group) — switch and resize 2-Columns layout or 4-Grid layout fastest as possible.
 - [tabr](https://packagecontrol.io/packages/tabr) — replace your current selections with a dynamically created tab order.
 - [Alignment](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
+- [AlignTab](https://github.com/randy3k/AlignTab) — an alignment plugin using regular expression.
 - [ASCII Decorator](https://github.com/viisual/ASCII-Decorator) — convert selected text into banners made up of ASCII art.
 - [PlainTasks](https://github.com/aziz/PlainTasks) — an opinionated todo-list plugin.
 - [GotoWindow](https://github.com/ccampbell/sublime-goto-window) — quickly switch to any open window using a keyboard command.
